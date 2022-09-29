@@ -1,11 +1,16 @@
 {
-    "name": "enjoping/dxfighter",
+    "name": "niekoost/dxfighter",
+	"description": "Fork of enjoping/dxfighter to work with DXF in PHP",
     "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Joe Pietler",
             "email": "enjoping@gmail.com"
-        }
+        },
+		{
+			"name": "Niek Oost",
+			"email": "niekoost@gmail.com"
+		}
     ],
     "require": {
     },
